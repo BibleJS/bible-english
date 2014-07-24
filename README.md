@@ -29,9 +29,10 @@ EnBible.getVerse("Matthew 1:1", function (err, data) {
    right foot.
 2. Fork the project in your account and create a new branch:
    `your-great-feature`.
-3. Commit your changes in that branch.
+3. Write code and tests, and run `npm test` to confirm everything works.
+3. Commit your changes to that branch.
 4. Open a pull request, and reference the initial issue in the pull request
-   message.
+   message (if solving an issue).
 
 ## License
 See the [LICENSE](./LICENSE) file.

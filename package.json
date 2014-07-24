@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/BibleJS/bible-english/issues"
   },
-  "homepage": "https://github.com/BibleJS/bible-english"
+  "homepage": "https://github.com/BibleJS/bible-english",
+  "devDependencies": {
+    "prova": "^1.14.0"
+  }
 }
