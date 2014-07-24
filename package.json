@@ -1,0 +1,24 @@
+{
+  "name": "bible-english",
+  "version": "0.1.0",
+  "description": "NodeJS wrapper for labs.bible.org API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:BibleJS/bible-english.git"
+  },
+  "keywords": [
+    "bible",
+    "english",
+    "node"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BibleJS/bible-english/issues"
+  },
+  "homepage": "https://github.com/BibleJS/bible-english"
+}
