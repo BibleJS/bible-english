@@ -14,7 +14,7 @@ $ npm install
 
 ```js
 // Dependencies
-var EnBible = require("../index");
+var EnBible = require("bible-english");
 
 // Get verse
 EnBible.getVerse("Matthew 1:1", function (err, data) {
