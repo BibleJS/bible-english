@@ -14,6 +14,7 @@ var BibleEnglish = module.exports = {};
  * @name getVerse
  * @function
  * @param {String} reference Bible verse reference
+ * @param {Function} callback The callback function
  * @return
  */
 BibleEnglish.getVerse = function (reference, callback) {
