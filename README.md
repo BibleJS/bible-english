@@ -10,6 +10,18 @@ $ cd bible-english
 $ npm install
 ```
 
+## Example
+
+```js
+// Dependencies
+var EnBible = require("../index");
+
+// Get verse
+EnBible.getVerse("Matthew 1:1", function (err, data) {
+    console.log(err || data);
+});
+```
+
 ## How to contribute
 
 1. File an issue in the repository, using the bug tracker, describing the
