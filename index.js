@@ -16,7 +16,7 @@ var BibleEnglish = module.exports = {};
  * @param {String} reference Bible verse reference
  * @return
  */
-BibleEnglish.getVerse = function (reference) {
+BibleEnglish.getVerse = function (reference, callback) {
     Request.get({
         json: true
       , url: PROVIDER + reference
