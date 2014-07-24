@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git@github.com:BibleJS/bible-english.git"
   },
+  "dependencies": {
+    "request": "2.39.0"
+  },
   "keywords": [
     "bible",
     "english",
