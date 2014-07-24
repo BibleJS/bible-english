@@ -1,4 +1,4 @@
-# bible-english
+# Bible English
 NodeJS wrapper for labs.bible.org API.
 
 ## Installation
