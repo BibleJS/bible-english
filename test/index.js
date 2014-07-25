@@ -5,11 +5,11 @@ var test = require("prova")
 
 var validVerse = [
     {
-        bookname: "Matthew",
-        chapter: "1",
-        verse: "1",
-        text: "This is the record of the genealogy of Jesus Christ, the son of David, the son of Abraham.",
-        title: "The Genealogy of Jesus Christ"
+        bookname: "Matthew"
+      , chapter: "1"
+      , verse: "1"
+      , text: "This is the record of the genealogy of Jesus Christ, the son of David, the son of Abraham."
+      , title: "The Genealogy of Jesus Christ"
     }
 ];
 

@@ -19,6 +19,9 @@
     "node"
   ],
   "author": "Ionică Bizău <bizauionica@gmail.com>",
+  "contributors": [
+    "Ilya Radchenko <ilya@burstcreations.com> (http://burstcreations.com/)"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/BibleJS/bible-english/issues"
