@@ -18,6 +18,11 @@ var BibleEnglish = module.exports = {};
  * @return
  */
 BibleEnglish.getVerse = function (reference, callback) {
+
+    if (typeof reference === "object") {
+        reference = this.reference;
+    }
+
     Request.get({
         json: true
       , url: PROVIDER + reference
