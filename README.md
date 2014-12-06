@@ -20,6 +20,12 @@ var EnBible = require("bible-english");
 EnBible.getVerse("Matthew 1:1", function (err, data) {
     console.log(err || data);
 });
+
+// Get the verse of the day
+EnBible.getVerse("votd", function (err, data) {
+    console.log(err || data);
+});
+
 ```
 
 ## How to contribute
