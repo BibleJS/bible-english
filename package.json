@@ -2,7 +2,7 @@
   "name": "bible-english",
   "version": "0.1.0",
   "description": "NodeJS wrapper for labs.bible.org API.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "node test/index.js"
   },
@@ -11,14 +11,14 @@
     "url": "git@github.com:BibleJS/bible-english.git"
   },
   "dependencies": {
-    "request": "2.39.0"
+    "jsonrequest": "^4.2.5"
   },
   "keywords": [
     "bible",
     "english",
     "node"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com>",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "contributors": [
     "Ilya Radchenko <ilya@burstcreations.com> (http://burstcreations.com/)"
   ],
@@ -28,6 +28,21 @@
   },
   "homepage": "https://github.com/BibleJS/bible-english",
   "devDependencies": {
-    "prova": "^1.14.0"
-  }
+    "tester": "^1.4.4"
+  },
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "scripts/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
+  ]
 }
