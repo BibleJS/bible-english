@@ -1,6 +1,6 @@
 {
   "name": "bible-english",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "NodeJS wrapper for labs.bible.org API.",
   "main": "lib/index.js",
   "scripts": {
