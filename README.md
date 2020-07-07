@@ -40,6 +40,8 @@ bible.getVerse("John 1:1", (err, data) => {
 
 
 
+
+
 ## :question: Get Help
 
 There are few ways to get help:
@@ -48,6 +50,7 @@ There are few ways to get help:
  2. For bug reports and feature requests, open issues. :bug:
 
  3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
+
 
 
 
@@ -91,11 +94,6 @@ However, if you get some profit from this or just want to encourage me to contin
 Thanks! :heart:
 
 
-## :dizzy: Where is this library used?
-If you are using this library in one of your projects, add it in this list. :sparkles:
-
-
- - [`bibletext.co`](https://github.com/BibleJS/bibletext.co)—Demo: http://bibletext.co/
 
 ## :scroll: License
 
